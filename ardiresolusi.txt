@@ -4,7 +4,5 @@ ingin belajar
 -js
 -reactJs
 
-
-
-vueJs
+aaaa
 portfolio
